@@ -9,8 +9,10 @@ Then use the c # version of the SilverFoxServer,
 If you have a demand for cross-platform or run in LINUX, you might consider a JAVA version
 Two versions of the current functions of the 99% the same.
 
-SilverFoxServerµÄÌØµã»¹°üÀ¨ ÓÃ´¿C#ÓïÑÔºÍ´¿JAVA·Ö±ğĞ´µÄ¶şÌ×·şÎñ¶Ë´úÂë£¬
-Èç¹ûÄãÏ²»¶ÓÃC#ºÍVisual Studio¿ª·¢³ÌĞò£¬
-ÄÇÃ´¾ÍÓÃC#°æSilverFoxServer£¬
-Èç¹ûÄãÓĞ¿çÆ½Ì¨»òÔÚLINUXÏÂÔËĞĞµÄĞèÇó£¬ÄÇÃ´¿ÉÒÔ¿¼ÂÇJAVA°æ
-¶ş¸ö°æ±¾Ä¿Ç°ÊµÏÖµÄ¹¦ÄÜ99%ÏàÍ¬¡£
+SilverFoxServerçš„ç‰¹ç‚¹è¿˜åŒ…æ‹¬ ç”¨çº¯C#è¯­è¨€å’Œçº¯JAVAåˆ†åˆ«å†™çš„äºŒå¥—æœåŠ¡ç«¯ä»£ç ï¼Œ
+å¦‚æœä½ å–œæ¬¢ç”¨C#å’ŒVisual Studioå¼€å‘ç¨‹åºï¼Œ
+é‚£ä¹ˆå°±ç”¨C#ç‰ˆSilverFoxServerï¼Œ
+å¦‚æœä½ æœ‰è·¨å¹³å°æˆ–åœ¨LINUXä¸‹è¿è¡Œçš„éœ€æ±‚ï¼Œé‚£ä¹ˆå¯ä»¥è€ƒè™‘JAVAç‰ˆ
+äºŒä¸ªç‰ˆæœ¬ç›®å‰å®ç°çš„åŠŸèƒ½99%ç›¸åŒã€‚
+
+æ£‹ç‰Œç±»æ¸¸æˆæºç 
